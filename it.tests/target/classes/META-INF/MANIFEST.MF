@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1569469807047
+Bnd-LastModified: 1570059318501
 Build-Jdk: 1.8.0_211
 Built-By: kalpanak
 Bundle-Description: Bundles for Integration Tests for WKND Sites Project
@@ -8,8 +8,8 @@ Bundle-Name: WKND Sites Project - Integration Tests Bundles
 Bundle-SymbolicName: com.adobe.aem.guides.aem-guides-wknd.it.tests
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: com.adobe.aem.guides.wknd.it.tests;version="0.0.1";uses:
- ="org.apache.sling.junit.annotations,org.junit,org.junit.runner"
+Export-Package: com.adobe.aem.guides.wknd.it.tests;uses:="org.apache.sli
+ ng.junit.annotations,org.junit,org.junit.runner";version="0.0.1"
 Import-Package: com.adobe.aem.guides.wknd.core.models;version="[0.0,1)",
  org.apache.sling.api.resource;version="[2.11,3)",org.apache.sling.junit
  .annotations;version="[1.0,2)",org.apache.sling.settings;version="[1.3,
