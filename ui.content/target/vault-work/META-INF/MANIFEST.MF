@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND Sites Project - UI content
+Content-Package-Roots: /conf/wknd,/content/dam/wknd,/content/wknd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kalpanak
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_211
+Content-Package-Description: UI content package for WKND Sites Project
+Content-Package-Id: wknd:aem-guides-wknd.ui.content:0.0.1-SNAPSHOT
+

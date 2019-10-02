@@ -1,0 +1,6 @@
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTaskTest.java
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListenerTest.java
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilterTest.java
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModelTest.java
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServletTest.java
+/Users/kalpanak/WKND/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/components/impl/BylineImplTest.java
